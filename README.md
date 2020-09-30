@@ -1,3 +1,3 @@
 # Clothes-Recognizer Fashion MNIST
-This Project Uses Famous Fashion MNIST Dataset
-which consists of 10 different categories of fashion items.
+This Repository Contains TensorFlow/Keras Model Trained On "Fashion MNIST" Dataset.
+The Model is Trained Using Convolutional Neural Network
